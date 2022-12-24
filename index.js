@@ -54,11 +54,8 @@ invokeAction(argv);
 //   .action(getContactById);
 
 // program
-//   .command("add")
+//   .command("add <name> <email> <phone>")
 //   .description("Add new contact")
-//   .option("--name [name]", "Name of the contact")
-//   .option("--email [email]", "Email of the contact")
-//   .option("--phone [phone]", "Phone of the contact")
 //   .action(addContact);
 
 // program
